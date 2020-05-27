@@ -5,6 +5,7 @@
 # Download Dataset & Saved Model
 
 https://www.kaggle.com/fushenggg/2-class-cat-dog-dataset
+
 *Contains catdog1.hdf5 file to load model (Saves time from training)
 
 Unzip the file and place the 'cats-dogs' folder into your CWD (current working directory) 
